@@ -1,0 +1,26 @@
+.box {
+    border: 2px solid blue;
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    padding: 30px;
+    margin: auto ;
+    margin-top: 100px;
+}
+h2 {
+    color: blue;
+}
+button {
+    background-color: blue;
+    width: 400px;
+    color: white;
+}
+a {
+    color: blue;
+}
+input {
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 400px;
+    height: 25px;
+}
